@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "question_category": "geography",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "correct_answer": "Paris",
+      "wrong_answer_1": "London",
+      "wrong_answer_2": "Berlin",
+      "wrong_answer_3": "Madrid"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "question_category": "science",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "correct_answer": "H2O",
+      "wrong_answer_1": "CO2",
+      "wrong_answer_2": "O2",
+      "wrong_answer_3": "N2"
+    },
+    {
+      "question": "Who is known as the father of modern physics?",
+      "question_category": "science",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "correct_answer": "Albert Einstein",
+      "wrong_answer_1": "Isaac Newton",
+      "wrong_answer_2": "Galileo Galilei",
+      "wrong_answer_3": "Stephen Hawking"
+    },
+    {
+      "question": "Which programming language is often used for web development?",
+      "question_category": "computer",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "correct_answer": "JavaScript",
+      "wrong_answer_1": "Python",
+      "wrong_answer_2": "Java",
+      "wrong_answer_3": "C++"
+    }
+  ]
+}
